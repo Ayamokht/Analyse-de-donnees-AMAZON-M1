@@ -1,4 +1,4 @@
-Création moteur de recherche avec Python
+CREATION DE MOTEUR DE RECHERCHE EN PYTHON.
 
 Dans le cadre de notre formation de Data Scientist, nous avons été amenés au 1er semestre à concevoir un projet en utilisant le langage de programmation Python.
 
