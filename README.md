@@ -1,6 +1,6 @@
-🔍 Création d'un Moteur de Recherche en Python 🚀
+# 🔍 Création d'un Moteur de Recherche en Python 🚀
 
-## 📌 Présentation du Projet
+### 📌 Présentation du Projet
 
 Dans le cadre de notre formation en Data Science, nous avons réalisé un projet passionnant durant le 1er semestre : la conception d'un moteur de recherche en Python, basé sur le thème Amazon. 🛒
 
