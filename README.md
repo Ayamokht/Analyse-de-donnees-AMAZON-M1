@@ -1,7 +1,11 @@
-CREATION DE MOTEUR DE RECHERCHE EN PYTHON.
+🔍 Création d'un Moteur de Recherche en Python 🚀
 
-Dans le cadre de notre formation de Data Scientist, nous avons été amenés au 1er semestre à concevoir un projet en utilisant le langage de programmation Python.
+## 📌 Présentation du Projet
 
-Notre projet, basé sur le thème Amazon, consistait à reproduire un moteur de recherche. Après avoir créé un ensemble de fonctions qui permettent de réaliser différentes tâches, nous avons mis en place une interface ludique pour donner à l’utilisateur le plus grand confort possible.
+Dans le cadre de notre formation en Data Science, nous avons réalisé un projet passionnant durant le 1er semestre : la conception d'un moteur de recherche en Python, basé sur le thème Amazon. 🛒
 
-Je vous invite à découvrir le résultat de notre moteur de recherche. Par ailleurs, un guide d’utilisation a été mis à votre disposition dans le document PDF pour vous expliquer les différentes étapes à réaliser pour pouvoir lancer le moteur de recherche.
+Notre objectif était de reproduire un moteur de recherche performant en développant plusieurs fonctions essentielles et en mettant en place une interface ludique afin d'offrir à l'utilisateur une expérience fluide et agréable. 🎨🖥️
+
+Nous avons appliqué différentes méthodes de traitement du texte, d'indexation et de recherche d'informations pour rendre le moteur efficace et pertinent.
+
+✨ Découvrez notre moteur de recherche ! ✨
