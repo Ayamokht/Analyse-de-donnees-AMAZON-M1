@@ -2,10 +2,13 @@
 
 ### 📌 Présentation du Projet
 
-Dans le cadre de notre formation en Data Science, nous avons réalisé un projet passionnant durant le 1er semestre : la conception d'un moteur de recherche en Python, basé sur le thème Amazon. 🛒
+Dans le cadre de notre cours en python avancé en M1, nous avons construit un moteur de recherche en Python basé sur l'analyse des produits d'Amazon 🛒. Ce projet nous a permis d'explorer le traitement des données, la visualisation des tendances e-commerce et la conception d'une interface interactive à la fin.
 
-Notre objectif était de reproduire un moteur de recherche performant en développant plusieurs fonctions essentielles et en mettant en place une interface ludique afin d'offrir à l'utilisateur une expérience fluide et agréable. 🎨🖥️
+L'objectif était de créer un système efficace permettant :
 
-Nous avons appliqué différentes méthodes de traitement du texte, d'indexation et de recherche d'informations pour rendre le moteur efficace et pertinent.
+🔍 La recherche optimisée des produits.
+📊 L'analyse des tendances des articles les plus vendus et les mieux notés.
+⚡ L'exploration des prix et des avis clients à l’aide de visualisations graphiques.
+🖥️ Une interface utilisateur interactive pour une navigation fluide.
 
-✨ Découvrez notre moteur de recherche ! ✨
+✨ Découvrez notre moteur de recherche Amazon et plongez dans l'analyse du e-commerce !! ✨
